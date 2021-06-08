@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color: aliceblue;
+    font-family: "comic sans MS",cursive;
+    
+}
+#welcome{
+    margin-top:20px;
+    
+}
+marquee{
+    background-color: deepskyblue;
+    color:white;
+    font-size: 20px;
+    height:30px;
+    width:1180px
+}
